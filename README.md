@@ -98,7 +98,10 @@ npm run build
 ## 📸 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](public/screenshots/landing.png)
+![Landing](public/screenshots/landing.png)
+
+### 🎯 Landing Variation
+![Landing 2](public/screenshots/landing3.png)
 
 ### 📚 Course Discovery
 ![Courses](public/screenshots/courses.png)
@@ -106,8 +109,12 @@ npm run build
 ### 📊 Dashboard
 ![Dashboard](public/screenshots/dashboard.png)
 
-### 🔐 Login Page
-![Login](public/screenshots/login.png)
+### ➕ Add Course / Feature UI
+![Add Course](public/screenshots/addCourse.png)
+
+### ✅ Status / Tracking
+![Status](public/screenshots/StatusCheck.png)
+
 
 ⭐ If you like this project
 
